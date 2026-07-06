@@ -1,0 +1,34 @@
+cs
+pd
+fd 90
+rt 90
+fd 270
+rt 90
+fd 90
+rt 90
+fd 270
+pu
+pd
+bk 90
+rt 90
+fd 90
+rt 90
+pu
+fd 90
+pd
+rt 90
+fd 90
+rt 90
+fd 180
+rt 90
+fd 90
+rt 30
+fd 90
+rt 120
+fd 90
+lt 60
+fd 90
+lt 60
+fd 90
+rt 120
+fd 90
