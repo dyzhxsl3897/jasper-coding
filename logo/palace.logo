@@ -32,3 +32,8 @@ lt 60
 fd 90
 rt 120
 fd 90
+rt 30
+fd 90
+rt 90
+fd 270
+rt 90
